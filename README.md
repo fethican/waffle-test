@@ -1,1 +1,3 @@
 # waffle-test
+
+Sample project
